@@ -3,7 +3,10 @@ ExDataProject
 
 Exploratory Data analysis project
 
-These are 6 plots generated from Emissions data for the US. The assignament instructions were
+These are 6 plots generated from Emissions data for the US. The provided data is here:
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
+
+The assignament instructions were:
 
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
